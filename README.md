@@ -108,8 +108,7 @@ See [`docs/sprint0_planning.md`](docs/sprint0_planning.md) for the complete prod
 Due to GitHub Actions billing limits ("account locked due to billing issue"), the CI pipeline was validated locally.
 
 ### Local Linting & Testing Success
-![Local CI Validation](ci_evidence.png)
-*(Please ensure the image file `ci_evidence.png` is in the root directory or update the path)*
+![Local CI Validation](Screenshot 2026-02-16 160332.png)
 
 ## Models Explored
 - Linear Regression (Baseline)
